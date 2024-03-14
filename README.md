@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nicholas Mariga</h1>
+<h1 align="center">Hi Everyone 👋, I'm Nicholas Mariga</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from Kenya</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [30-Days-of-DevOps_Learning](https://github.com/NicholasMariga/30-Days-Of-DevOps-Learning.git)
 
